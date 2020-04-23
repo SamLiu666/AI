@@ -11,3 +11,14 @@
 $$
 {\rm Loss}(w, b, x, y) = \sum_{i=1}^N (f(w, b, x_i) - y_i)^2
 $$
+
+```shell
+anaconda-navigator
+# 激活虚拟环境
+source activate pytorch
+# 退出虚拟环境
+source deactivate
+```
+
+
+
