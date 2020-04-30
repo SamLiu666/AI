@@ -1,3 +1,5 @@
+** 主要是用ubuntu 20 提交测试**
+
 [机器学习开放基础课程](https://www.shiyanlou.com/courses/1283)
 
 进度： 
