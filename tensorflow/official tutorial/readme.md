@@ -94,3 +94,4 @@ new_model = keras.models.load_model('my_model.h5')  # load the model
 # then u can do the same things
 ```
 
+# RNN 生成文本
