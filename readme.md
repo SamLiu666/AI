@@ -4,15 +4,13 @@
 
 进度： 
 
-| 完成              | 未完成 |
-| ----------------- | ------ |
-| Pandas 数据预处理 | 挑战   |
-|                   |        |
-|                   |        |
+| 文件                 | 内容         |
+| -------------------- | ------------ |
+| 1 python             | 挑战         |
+| 2 ml algorithm       | 机器学习算法 |
+| 3 matplotlib, pandas | 库的使用     |
+| 4 pytorch tensorflow | 框架使用教程 |
 
-$$
-{\rm Loss}(w, b, x, y) = \sum_{i=1}^N (f(w, b, x_i) - y_i)^2
-$$
 
 ```shell
 anaconda-navigator
@@ -24,3 +22,6 @@ source deactivate
 
 
 
+记录：
+
+1. python 100个练习

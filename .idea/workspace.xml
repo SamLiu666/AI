@@ -1,20 +1,137 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6a28359d-4647-4b83-bf1a-b64bd6106891" name="Default Changelist" comment="" />
+    <list default="true" id="6a28359d-4647-4b83-bf1a-b64bd6106891" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Matplotlib tutorial/.ipynb_checkpoints/matplotlib_tutorial-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matplotlib tutorial/matplotlib_tutorial.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/.ipynb_checkpoints/1 k 均值-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/.ipynb_checkpoints/1 线性回归-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/.ipynb_checkpoints/2 PCA-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/.ipynb_checkpoints/2 逻辑回归-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/.ipynb_checkpoints/3 CNN  with tensorflow-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/.ipynb_checkpoints/3 K 近邻-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/.ipynb_checkpoints/3 NN-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/.ipynb_checkpoints/3 决策树-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/.ipynb_checkpoints/4 朴素贝叶斯-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/.ipynb_checkpoints/5 支持向量机 SVM-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/1 k 均值.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/1 线性回归.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/2 PCA.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/2 逻辑回归.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/3 CNN  with tensorflow.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/3 K 近邻.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/3 NN.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/3 决策树.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/4 朴素贝叶斯.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/5 支持向量机 SVM.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/decision_tree.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pandas use/.ipynb_checkpoints/pandas tutorial-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pandas use/Pandas_Cheat_Sheet.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pandas use/example.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pandas use/pandas tutorial.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pandas use/use pandas data minning/.ipynb_checkpoints/1 使用 Pandas 进行数据探索-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pandas use/use pandas data minning/1 使用 Pandas 进行数据探索.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pandas use/use pandas data minning/telecom_churn.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytorch/.ipynb_checkpoints/basic sysnatx-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytorch/Dive to DL with pytorch/.ipynb_checkpoints/1 线性回归-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytorch/Dive to DL with pytorch/1 线性回归.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytorch/basic sysnatx.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytorch/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytorch/tutorial/.ipynb_checkpoints/1 WHAT IS PYTORCH-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytorch/tutorial/.ipynb_checkpoints/2 AUTOGRAD AUTOMATIC DIFFERENTIATION-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytorch/tutorial/.ipynb_checkpoints/3 NEURAL NETWORKS-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytorch/tutorial/.ipynb_checkpoints/4 train a classifier-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytorch/tutorial/1 WHAT IS PYTORCH.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytorch/tutorial/2 AUTOGRAD AUTOMATIC DIFFERENTIATION.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytorch/tutorial/3 NEURAL NETWORKS.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytorch/tutorial/4 train a classifier.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytorch/tutorial/cifar_net.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow/.ipynb_checkpoints/tensorflow 1-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow/.ipynb_checkpoints/tensorflow 2 linear regression-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow/.ipynb_checkpoints/tensorflow1_1-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow/.ipynb_checkpoints/tensorflow2 neural network-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow/3 DL Basic/.ipynb_checkpoints/图像分类 MNIST-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow/3 DL Basic/.ipynb_checkpoints/多层感知机-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow/3 DL Basic/.ipynb_checkpoints/过拟合和欠拟合-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow/3 DL Basic/tensorflow 1.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow/3 DL Basic/tensorflow 2 linear regression.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow/3 DL Basic/tensorflow1_1.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow/3 DL Basic/tensorflow2 neural network.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow/3 DL Basic/图像分类 MNIST.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow/3 DL Basic/多层感知机.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow/3 DL Basic/过拟合和欠拟合.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow/kaggle house price prediction/.ipynb_checkpoints/房价预测-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow/kaggle house price prediction/submission.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow/kaggle house price prediction/test.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow/kaggle house price prediction/train.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow/kaggle house price prediction/房价预测.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow/official tutorial/.ipynb_checkpoints/1 自定义训练 tensorflow basic -checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow/official tutorial/.ipynb_checkpoints/1_1 tensorflow_keras 自定义训练模型-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow/official tutorial/1 自定义训练 tensorflow basic .ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow/official tutorial/1_1 tensorflow_keras 自定义训练模型.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow/official tutorial/keras 机器学习基础/.ipynb_checkpoints/1 基于图像分类-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow/official tutorial/keras 机器学习基础/.ipynb_checkpoints/2 TF HUb 进行文本分类-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow/official tutorial/keras 机器学习基础/.ipynb_checkpoints/3 对预处理文本进行文本分类-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow/official tutorial/keras 机器学习基础/.ipynb_checkpoints/4 回归-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow/official tutorial/keras 机器学习基础/.ipynb_checkpoints/5 过拟合和欠拟合-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow/official tutorial/keras 机器学习基础/.ipynb_checkpoints/6 保存和加载-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow/official tutorial/keras 机器学习基础/.ipynb_checkpoints/赋值 浅拷贝  深拷贝  多继承-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow/official tutorial/keras 机器学习基础/1 基于图像分类.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow/official tutorial/keras 机器学习基础/2 TF HUb 进行文本分类.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow/official tutorial/keras 机器学习基础/3 对预处理文本进行文本分类.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow/official tutorial/keras 机器学习基础/4 回归.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow/official tutorial/keras 机器学习基础/5 过拟合和欠拟合.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow/official tutorial/keras 机器学习基础/6 保存和加载.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow/official tutorial/keras 机器学习基础/my_model.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow/official tutorial/keras 机器学习基础/赋值 浅拷贝  深拷贝  多继承.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow/official tutorial/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow/official tutorial/text/.ipynb_checkpoints/1 word embedding-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow/official tutorial/text/.ipynb_checkpoints/2 RNN 文本分类-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow/official tutorial/text/.ipynb_checkpoints/3 RNN 生成文本-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow/official tutorial/text/.ipynb_checkpoints/4 基于注意力的神经机器翻译-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow/official tutorial/text/1 word embedding.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow/official tutorial/text/2 RNN 文本分类.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow/official tutorial/text/3 RNN 生成文本.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow/official tutorial/text/4 基于注意力的神经机器翻译.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow/official tutorial/加载数据 Estimator/.ipynb_checkpoints/1 CSV-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow/official tutorial/加载数据 Estimator/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow/official tutorial/加载数据 Estimator/1 CSV.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow/official tutorial/加载数据 Estimator/Untitled.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow/readme.md" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/1 python/1_5.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="670">
+              <caret line="35" column="14" selection-end-line="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/1 python/1_5.py" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-117" />
-    <option name="y" value="188" />
-    <option name="width" value="2032" />
+    <option name="x" value="957" />
+    <option name="width" value="961" />
     <option name="height" value="1100" />
   </component>
   <component name="ProjectView">
@@ -22,7 +139,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -34,9 +150,11 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="copyright" />
   </component>
   <component name="RunDashboard">
@@ -65,15 +183,12 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-117" y="188" width="2032" height="1100" extended-state="0" />
+    <frame x="957" y="0" width="961" height="1100" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1223671" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26435536" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -81,10 +196,23 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/1 python/1_5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="670">
+          <caret line="35" column="14" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
