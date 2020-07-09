@@ -278,6 +278,7 @@ print(" ".join(sorted(list(set(words)))))
 ```
 
 ### Question 11
+
 Level 2
 
 Question:
